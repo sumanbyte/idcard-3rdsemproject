@@ -1,0 +1,1 @@
+This is the showcase of CRUD operations done in php. It features a student and admin panel. There is a seperate login page for students and admin. This is the simple demo application for my web technology subject in third semester.
